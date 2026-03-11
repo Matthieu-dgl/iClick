@@ -21,12 +21,19 @@ When you first run the app, macOS will prompt you to grant access:
 
 > This project includes an `NSAccessibilityUsageDescription` entry in `Info.plist` explaining why the permission is required.
 
-## Build & Run (from source)
+## Build & Run (from source or download the Release)
+
+Source code : 
 
 1. Clone the repo
 2. Open the project in **Xcode**
 3. Select the **iClick** scheme
 4. Run (`⌘R`)
+
+
+By release : 
+
+**Download** : https://github.com/Matthieu-dgl/iClick/releases
 
 ## Tech Stack
 
