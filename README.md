@@ -1,4 +1,5 @@
 # iClick
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 **iClick** is a lightweight macOS auto-clicker built with **SwiftUI**.
 
