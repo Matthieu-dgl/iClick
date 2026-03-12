@@ -56,4 +56,4 @@ Use responsibly. Auto-clicking may violate the terms of service of some apps/gam
 
 ## License
 
-Add a license if you plan to distribute this publicly (MIT, Apache-2.0, etc.).
+This project is licensed under the [MIT License](LICENSE).
